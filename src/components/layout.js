@@ -30,7 +30,7 @@ const Layout = ({ children }) => {
           <div className="social">
           <a href="https://github.com/rAndrade360" target="blank"><FaGithub size={25} color="#333" /></a>
          <a href="mailto:r.andrade@acad.ifma.edu.br?Subject=Oie" ><FaEnvelope size={25} color="#999" /></a>
-         <a href="  www.linkedin.com/in/renan-andrade-correa-9358b2181" target="blank"><FaLinkedin size={25} color="#3333ff" /></a>
+         <a href="https://linkedin.com/in/renan-andrade-correa-9358b2181" target="blank"><FaLinkedin size={25} color="#3333ff" /></a>
           </div>
         
          
