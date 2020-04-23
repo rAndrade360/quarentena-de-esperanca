@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "title": "Pr Rafael",
+        "discription": "Assista lives incríveis no instagram do Pastor Rafael. São vídeos de diversos assuntos, para o seu enriquecimento espiritual!",
+        "avatar_url":  "https://instagram.fslz7-1.fna.fbcdn.net/v/t51.2885-19/s150x150/72922217_430064814325305_5737491466054270976_n.jpg?_nc_ht=instagram.fslz7-1.fna.fbcdn.net&_nc_ohc=alV72uw1jcIAX-qMP7z&oh=d39cf7b09d698791f0ffa1db1512d826&oe=5ECA5099",
+        "type": "instagram",
+        "link":"https://www.instagram.com/pr_rafaelsantos/"
+    },
+    {
+        "id": 2,
+        "title": "Pr Eduardo Batista",
+        "discription": "Assista lives emocionantes no instagram do Pastor Eduardo Batista. São vídeos inspiradores, que irão te ajudar na caminhada espiritual!",
+        "avatar_url": "https://instagram.fslz7-1.fna.fbcdn.net/v/t51.2885-19/s150x150/49907343_762369417471597_2008109382264422400_n.jpg?_nc_ht=instagram.fslz7-1.fna.fbcdn.net&_nc_ohc=Mvh0ZJpyGy4AX9Yu8nT&oh=1ea631b1a60c649ab69683e1d0ab21bb&oe=5ECA9503",
+        "type":"instagram",
+        "link":"https://www.instagram.com/prdudu/"
+
+    },
+    {
+        "id": 3,
+        "title": "Influenciar Cursos",
+        "discription": "O Influenciar é uma plataforma de cursos online com o foco no desenvolvimento de pessoas que querem aperfeiçoar suas competências espirituais.",
+        "avatar_url": "https://influenciar.org.br/wp-content/uploads/2019/01/logo-influenciar.png",
+        "type":"curso",
+        "link":"https://influenciar.org.br/"
+    },
+    {
+        "id": 4,
+        "title": "Curso de Teologia",
+        "discription": "Já pensou em estudar os mesmos temas abordados nos Seminários Adventistas, mas não tem tempo ou interesse em se deslocar até um deles? Chegou a sua vez!",
+        "avatar_url": "https://3.bp.blogspot.com/-E8-tXKIbY5Y/V1WqtLRt0FI/AAAAAAAACoI/teqe5zH1Uuo9LhWNPSptNOvHFBTpWdn5QCLcB/s200/TEOL_ead.jpg",
+        "type":"curso",
+        "link":"https://prgilsonmedeiros.blogspot.com/p/blog-page_19.html"
+
+    },
+    {
+        "id": 5,
+        "title": "Art Trio",
+        "discription": "Ouça as melhores músicas do trio mais amado da IASD. Assista as lives e venha louvar junto com essa turma!",
+        "avatar_url": "https://instagram.fslz7-1.fna.fbcdn.net/v/t51.2885-19/s150x150/29092957_351147052049190_4259283960380522496_n.jpg?_nc_ht=instagram.fslz7-1.fna.fbcdn.net&_nc_ohc=9VGUzqxWoioAX9TxN3B&oh=3684c45537f181c5a5d44b5306c0616c&oe=5EC975DE",
+        "type":"instagram",
+        "link":"https://www.instagram.com/arttriooficial/"
+    },
+    {
+        "id": 6,
+        "title": "Pr Odailson",
+        "discription": "Ouças melhores mensagens e enriqueça sua vida. Acesse o instagram do pastor Odailson e tenha sua vida abeçoada!",
+        "avatar_url": "https://instagram.fslz7-1.fna.fbcdn.net/v/t51.2885-19/s150x150/72448750_444297502876914_2587331716934795264_n.jpg?_nc_ht=instagram.fslz7-1.fna.fbcdn.net&_nc_ohc=quofB1e_zCcAX9QgbFO&oh=59557d460f8227ea96a9b0264cacbf23&oe=5ECC68F9",
+        "type":"instagram",
+        "link":"https://www.instagram.com/odailson/"
+    },
+    {
+        "id": 7,
+        "title": "Adventistas Life",
+        "discription": "Somos uma comunidade cristã, onde todas as pessoas podem encontrar esperança, aceitação, amor e respeito à diversidade.",
+        "avatar_url": "//yt3.ggpht.com/a/AATXAJywCOzLE4AeSMaL4b5QPa52FyNxe9KvEOap3w=s176-c-k-c0x00ffffff-no-rj-mo",
+        "type":"youtube",
+        "link":"https://www.youtube.com/channel/UCb_i_Y_uzulRyRZmigAvtjQ"
+    },
+    {
+        "id": 8,
+        "title": "Adventistas Brasil",
+        "discription": "Todos nós estamos passando por momentos difíceis, muitas perguntas vêm a nossa mente, não é mesmo? Queremos te convidar para entender e conhecer as mais incríveis revelações de Deus",
+        "avatar_url": "//yt3.ggpht.com/a/AATXAJxixmRdGIRt5k3OBNN-nEWeA1PHtXQoKsrG0w=s176-c-k-c0x00ffffff-no-rj-mo",
+        "type":"youtube",
+        "link":"https://www.youtube.com/user/VideosdeEsperanca"
+    },
+    {
+        "id": 9,
+        "title": "Daniel Ludtke",
+        "discription": "Assista às melhores pregações e mensagens musicais com esse pastor divertidíssimo. Confira já o insta do Pastor Daniel Ludtke!",
+        "avatar_url": "https://instagram.fslz7-1.fna.fbcdn.net/v/t51.2885-19/s150x150/93246093_917742008655663_3466154632118534144_n.jpg?_nc_ht=instagram.fslz7-1.fna.fbcdn.net&_nc_ohc=VD8GCuQQMLAAX-bZIIi&oh=a976a7fea61d07ae21e886403c033f71&oe=5ECBB7B4",
+        "type":"instagram",
+        "link":"https://www.instagram.com/danielludtke/"
+    },
+    {
+        "id": 10,
+        "title": "Alejandro Bullón",
+        "discription": "Assista às pregações do pastor Alejandro e tenha 100% de certeza que sua vida vai ser transformada. Corre lá!",
+        "avatar_url": "https://instagram.fslz7-1.fna.fbcdn.net/v/t51.2885-19/s150x150/13108764_835654043213283_1576469675_a.jpg?_nc_ht=instagram.fslz7-1.fna.fbcdn.net&_nc_ohc=vQ_kCtYSy7EAX-22XHi&oh=c2b3a7af3895365aeff5bf8571e1a4e2&oe=5ECB525D",
+        "type":"instagram",
+        "link":"https://www.instagram.com/alejandrobullon/"
+    },
+    {
+        "id": 11,
+        "title": "Adventistas Sul Maranhão",
+        "discription": "Assista muito conteúdo de qualidade nesse canal! Corre lá e receba as bênçãos em sua vida!",
+        "avatar_url": "//yt3.ggpht.com/a/AATXAJyQu1mk2IZoI556FfoL3VYxWFXk_3TlMC7H4A=s176-c-k-c0x00ffffff-no-rj-mo",
+        "type":"youtube",
+        "link":"https://www.youtube.com/channel/UCNZ2p-Ur2tgWhe989YPmkMg"
+    },
+    {
+        "id": 12,
+        "title": "Feliz7Play",
+        "discription": "Você gosta de séries? e música? Pois esse é o canal perfeito para você. Corre lá e se inscreva nesse super canal!",
+        "avatar_url": "//yt3.ggpht.com/a/AATXAJznM_g6Eeqvt97d47zxy2EWfMYoVEF84fm_2Q=s176-c-k-c0x00ffffff-no-rj-mo",
+        "type":"youtube",
+        "link":"https://www.youtube.com/channel/UC8PS8EsZsWXOQ1YmlJwCaYw"
+    }
+
+]

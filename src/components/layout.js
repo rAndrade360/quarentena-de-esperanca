@@ -1,13 +1,8 @@
-/**
- * Layout component that queries for data
- * with Gatsby's useStaticQuery component
- *
- * See: https://www.gatsbyjs.org/docs/use-static-query/
- */
-
 import React from "react"
 import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
+import {FaGithub, FaEnvelope, FaLinkedin} from 'react-icons/fa';
+import {FcLike} from 'react-icons/fc';
 
 import Header from "./header"
 import "./layout.css"
@@ -26,20 +21,24 @@ const Layout = ({ children }) => {
   return (
     <>
       <Header siteTitle={data.site.siteMetadata.title} />
-      <div
-        style={{
-          margin: `0 auto`,
-          maxWidth: 960,
-          padding: `0 1.0875rem 1.45rem`,
-        }}
-      >
+        
+      
         <main>{children}</main>
         <footer>
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
-        </footer>
-      </div>
+        <div>
+          <p>Made with <FcLike />, by <br/><span className="author">Renan de Andrade Correa</span></p>
+          <div className="social">
+          <a href="https://github.com/rAndrade360" target="blank"><FaGithub size={25} color="#333" /></a>
+         <a href="mailto:r.andrade@acad.ifma.edu.br?Subject=Oie" ><FaEnvelope size={25} color="#999" /></a>
+         <a href="  www.linkedin.com/in/renan-andrade-correa-9358b2181" target="blank"><FaLinkedin size={25} color="#3333ff" /></a>
+          </div>
+        
+         
+        </div>
+        <p style={{color: "#999"}}>Créditos de imagem: <a style={{color: "#7159c1"}} href="https://br.freepik.com/fotos-vetores-gratis/pessoas" target="blank">Freepik</a></p>
+        
+      
+      </footer>
     </>
   )
 }
