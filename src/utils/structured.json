@@ -1,9 +1,9 @@
 {
     "@context" : "http://schema.org",
-    "@type" : "Article",
+    "@type" : "website",
     "url": "https://quarentenadeesperanca.netlify.app",
     "name" : "Quarentena de Esperança",
-    "author" : {
+    "publisher" : {
       "@type" : "Organization",
       "name" : "Renan de Andrade Correa",
       "sameAs": [
