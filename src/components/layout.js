@@ -3,7 +3,6 @@ import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
 import {FaGithub, FaEnvelope, FaLinkedin} from 'react-icons/fa';
 import {FcLike} from 'react-icons/fc';
-import Strutured from './Strutured';
 
 import Header from "./header"
 import "./layout.css"
@@ -39,7 +38,6 @@ const Layout = ({ children }) => {
         
       
       </footer>
-      <Strutured />
     </>
   )
 }
