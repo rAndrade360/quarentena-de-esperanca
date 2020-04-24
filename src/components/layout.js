@@ -3,6 +3,7 @@ import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
 import {FaGithub, FaEnvelope, FaLinkedin} from 'react-icons/fa';
 import {FcLike} from 'react-icons/fc';
+import Strutured from './Strutured';
 
 import Header from "./header"
 import "./layout.css"
@@ -33,12 +34,12 @@ const Layout = ({ children }) => {
          <a href="https://linkedin.com/in/renan-andrade-correa-9358b2181" target="blank"><FaLinkedin size={25} color="#3333ff" /></a>
           </div>
         
-         
         </div>
         <p style={{color: "#999"}}>Créditos de imagem: <a style={{color: "#7159c1"}} href="https://br.freepik.com/fotos-vetores-gratis/pessoas" target="blank">Freepik</a></p>
         
       
       </footer>
+      <Strutured />
     </>
   )
 }

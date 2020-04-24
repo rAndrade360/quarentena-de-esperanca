@@ -31,7 +31,7 @@ export default function Card({data}) {
             <p><span className="title">{data.title}</span></p>
             <p className="discripton">{data.discription}</p>
             <div className="button">
-                <a href={data.link} target="blank"><button>Conferir agora!</button></a>
+                <a href={data.link} target="blank">Conferir agora!</a>
             </div>
         </div>
     </div>
