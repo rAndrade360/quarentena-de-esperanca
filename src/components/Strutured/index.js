@@ -1,9 +1,11 @@
 import React from 'react';
+import {Helmet} from 'react-helmet';
 
 // import { Container } from './styles';
 
 export default function Strutured() {
   return (
+    <Helmet>
     <script type="application/ld+json">
    {`{
   "@context" : "http://schema.org",
@@ -21,6 +23,7 @@ export default function Strutured() {
   "image" : "https://image.freepik.com/vetores-gratis/ficar-em-casa-relaxar-conceito_23-2148479286.jpg",
 }`}
     </script>
+    </Helmet>
 
   );
 }

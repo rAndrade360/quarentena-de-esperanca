@@ -52,18 +52,18 @@
 }
 
 .button{
-    margin: 10px 0;
-   
+    margin: 20px 0;  
 }
 
 .button a{
     border: 0;
     padding: 10px;
     background-color: rgb(100, 11, 201);
-    width: 100%;
+    width: 100% !important;
     border-radius: 5px;
     color: #FFF;
     cursor: pointer;
+    display: block;
     font-size: 18px;
 }
 
