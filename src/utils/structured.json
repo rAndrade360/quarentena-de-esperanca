@@ -7,9 +7,9 @@
       "@type" : "Person",
       "name" : "Renan de Andrade Correa",
       "sameAs": [
-          "https://www.facebook.com/renan.andrade.79462815",
-          "https://instagram.com/renancorrea360",
-          "https://linkedin.com/in/renan-andrade-correa-9358b2181"
+         { "facebook": "https://www.facebook.com/renan.andrade.79462815"},
+         {"instagram": "https://instagram.com/renancorrea360"},
+          { "linkedin":"https://linkedin.com/in/renan-andrade-correa-9358b2181"}
         ]
     },
     "image" : "https://image.freepik.com/vetores-gratis/ficar-em-casa-relaxar-conceito_23-2148479286.jpg"
