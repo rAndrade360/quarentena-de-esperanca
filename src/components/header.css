@@ -1,6 +1,6 @@
 header{
     background-color: #FFF;
-    border-bottom: 5px solid   rgb(100, 11, 201);
+    border-bottom: 5px solid   #640bc9;
     max-width: 100%;
     margin-top: 0;
   }
@@ -8,7 +8,7 @@ header{
 header h1{
     font-size: 2.5rem;
    
-    color: rgba(100, 11, 201, 0.76);
+    color: #640bc9c2;
     padding: 15px 8%;
   }
 .picture{

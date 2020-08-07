@@ -1,9 +1,15 @@
-[
+import prRafelImage from '../images/prrafael.jpg';
+import prDuduImage from '../images/prdudu.jpg';
+import artTrioImage from '../images/arttrio.jpg';
+import odailsonImage from '../images/odailson.jpg';
+import danielImage from '../images/daniel.jpg';
+import bullonImage from '../images/bullon.jpg';
+export default [
     {
         "id": 1,
         "title": "Pr Rafael",
         "discription": "Assista lives incríveis no instagram do Pastor Rafael. São vídeos de diversos assuntos, para o seu enriquecimento espiritual!",
-        "avatar_url":  "https://instagram.fslz7-1.fna.fbcdn.net/v/t51.2885-19/s150x150/72922217_430064814325305_5737491466054270976_n.jpg?_nc_ht=instagram.fslz7-1.fna.fbcdn.net&_nc_ohc=alV72uw1jcIAX-qMP7z&oh=d39cf7b09d698791f0ffa1db1512d826&oe=5ECA5099",
+        "avatar_url":  prRafelImage,
         "type": "instagram",
         "link":"https://www.instagram.com/pr_rafaelsantos/"
     },
@@ -11,7 +17,7 @@
         "id": 2,
         "title": "Pr Eduardo Batista",
         "discription": "Assista lives emocionantes no instagram do Pastor Eduardo Batista. São vídeos inspiradores, que irão te ajudar na caminhada espiritual!",
-        "avatar_url": "https://instagram.fslz7-1.fna.fbcdn.net/v/t51.2885-19/s150x150/49907343_762369417471597_2008109382264422400_n.jpg?_nc_ht=instagram.fslz7-1.fna.fbcdn.net&_nc_ohc=Mvh0ZJpyGy4AX9Yu8nT&oh=1ea631b1a60c649ab69683e1d0ab21bb&oe=5ECA9503",
+        "avatar_url": prDuduImage,
         "type":"instagram",
         "link":"https://www.instagram.com/prdudu/"
 
@@ -37,7 +43,7 @@
         "id": 5,
         "title": "Art Trio",
         "discription": "Ouça as melhores músicas do trio mais amado da IASD. Assista as lives e venha louvar junto com essa turma!",
-        "avatar_url": "https://instagram.fslz7-1.fna.fbcdn.net/v/t51.2885-19/s150x150/29092957_351147052049190_4259283960380522496_n.jpg?_nc_ht=instagram.fslz7-1.fna.fbcdn.net&_nc_ohc=9VGUzqxWoioAX9TxN3B&oh=3684c45537f181c5a5d44b5306c0616c&oe=5EC975DE",
+        "avatar_url": artTrioImage,
         "type":"instagram",
         "link":"https://www.instagram.com/arttriooficial/"
     },
@@ -45,7 +51,7 @@
         "id": 6,
         "title": "Pr Odailson",
         "discription": "Ouças melhores mensagens e enriqueça sua vida. Acesse o instagram do pastor Odailson e tenha sua vida abeçoada!",
-        "avatar_url": "https://instagram.fslz7-1.fna.fbcdn.net/v/t51.2885-19/s150x150/72448750_444297502876914_2587331716934795264_n.jpg?_nc_ht=instagram.fslz7-1.fna.fbcdn.net&_nc_ohc=quofB1e_zCcAX9QgbFO&oh=59557d460f8227ea96a9b0264cacbf23&oe=5ECC68F9",
+        "avatar_url": odailsonImage,
         "type":"instagram",
         "link":"https://www.instagram.com/odailson/"
     },
@@ -69,7 +75,7 @@
         "id": 9,
         "title": "Daniel Ludtke",
         "discription": "Assista às melhores pregações e mensagens musicais com esse pastor divertidíssimo. Confira já o insta do Pastor Daniel Ludtke!",
-        "avatar_url": "https://instagram.fslz7-1.fna.fbcdn.net/v/t51.2885-19/s150x150/93246093_917742008655663_3466154632118534144_n.jpg?_nc_ht=instagram.fslz7-1.fna.fbcdn.net&_nc_ohc=VD8GCuQQMLAAX-bZIIi&oh=a976a7fea61d07ae21e886403c033f71&oe=5ECBB7B4",
+        "avatar_url": danielImage,
         "type":"instagram",
         "link":"https://www.instagram.com/danielludtke/"
     },
@@ -77,7 +83,7 @@
         "id": 10,
         "title": "Alejandro Bullón",
         "discription": "Assista às pregações do pastor Alejandro e tenha 100% de certeza que sua vida vai ser transformada. Corre lá!",
-        "avatar_url": "https://instagram.fslz7-1.fna.fbcdn.net/v/t51.2885-19/s150x150/13108764_835654043213283_1576469675_a.jpg?_nc_ht=instagram.fslz7-1.fna.fbcdn.net&_nc_ohc=vQ_kCtYSy7EAX-22XHi&oh=c2b3a7af3895365aeff5bf8571e1a4e2&oe=5ECB525D",
+        "avatar_url": bullonImage,
         "type":"instagram",
         "link":"https://www.instagram.com/alejandrobullon/"
     },

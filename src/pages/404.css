@@ -1,0 +1,71 @@
+.pageError {
+    height: 100vh;
+    width: 100vw;
+}
+.container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 90%;
+    max-width: 700px;
+    margin: 0 auto;
+}
+.pageError h1 {
+    font-size: 2.5rem;
+    color: #640bc9c2;
+    padding: 15px 8%;
+    margin-bottom: 2.5rem;
+}
+.pageError img {
+   height: 40vh;
+}
+.pageError p {
+    color: #4f5f6f;
+    font-size: 1.2rem;
+    margin-top: 1rem;
+}
+#button-group{
+    display: flex;
+    margin-top: 2rem;
+}
+#button-group a {
+    text-decoration: none;
+    padding: 1.6rem;
+    color: #555;
+    border-radius: 0.8rem;
+    cursor: pointer;
+    transition: opacity 0.2s;
+}
+
+#button-group a:hover {
+    opacity: 0.8;
+}
+
+#button-group > a{
+    margin-right: 1.5rem;
+}
+
+#button-group #go-back {
+    background-color: rgb(100, 11, 201);
+    color: #fff;
+}
+#button-group #know-the-author {
+    background-color: rgb(8, 163, 16);
+    color: #fff;
+}
+
+@media(max-width:400px){
+    .pageError img {
+        clear: both;
+        height: auto;
+        width: 90%;
+     }
+     .pageError h1 {
+        font-size: 2rem;
+        margin-bottom: 2rem;
+    }
+    #button-group a {
+        padding: 1.2rem;
+
+    }
+}
